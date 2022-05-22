@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ee7fb6f-d91e-4a45-a85d-3e1bf6e22ea0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wow.html" beforeDir="false" afterPath="$PROJECT_DIR$/wow.html" afterDir="false" />
-    </list>
+    <list default="true" id="9ee7fb6f-d91e-4a45-a85d-3e1bf6e22ea0" name="Changes" comment="so there's a little button on the upper right hand corner, there's also little button on my touchbar that do it too" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +52,23 @@
       <updated>1652823331333</updated>
       <workItem from="1652823333217" duration="20000" />
       <workItem from="1653102311760" duration="904000" />
-      <workItem from="1653105759832" duration="1311000" />
+      <workItem from="1653105759832" duration="1648000" />
     </task>
+    <task id="LOCAL-00001" summary="hello !">
+      <created>1653109031492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653109031492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="so there's a little button on the upper right hand corner, there's also little button on my touchbar that do it too">
+      <created>1653109312581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653109312581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +84,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello !" />
+    <MESSAGE value="so there's a little button on the upper right hand corner, there's also little button on my touchbar that do it too" />
+    <option name="LAST_COMMIT_MESSAGE" value="so there's a little button on the upper right hand corner, there's also little button on my touchbar that do it too" />
   </component>
 </project>
